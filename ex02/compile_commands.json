@@ -13,9 +13,9 @@
       "obj/main.o",
       "src/main.cpp"
     ],
-    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex01",
-    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex01/src/main.cpp",
-    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex01/obj/main.o"
+    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex02",
+    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex02/src/main.cpp",
+    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex02/obj/main.o"
   },
   {
     "arguments": [
@@ -31,8 +31,8 @@
       "obj/Fixed.o",
       "src/Fixed.cpp"
     ],
-    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex01",
-    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex01/src/Fixed.cpp",
-    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex01/obj/Fixed.o"
+    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex02",
+    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex02/src/Fixed.cpp",
+    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex02/obj/Fixed.o"
   }
 ]
