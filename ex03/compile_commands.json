@@ -16,59 +16,5 @@
     "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03",
     "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/src/main.cpp",
     "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/obj/main.o"
-  },
-  {
-    "arguments": [
-      "/usr/bin/c++",
-      "-Wall",
-      "-Wextra",
-      "-Werror",
-      "-std=c++98",
-      "-I",
-      "include",
-      "-c",
-      "-o",
-      "obj/Fixed.o",
-      "src/Fixed.cpp"
-    ],
-    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03",
-    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/src/Fixed.cpp",
-    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/obj/Fixed.o"
-  },
-  {
-    "arguments": [
-      "/usr/bin/c++",
-      "-Wall",
-      "-Wextra",
-      "-Werror",
-      "-std=c++98",
-      "-I",
-      "include",
-      "-c",
-      "-o",
-      "obj/Point.o",
-      "src/Point.cpp"
-    ],
-    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03",
-    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/src/Point.cpp",
-    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/obj/Point.o"
-  },
-  {
-    "arguments": [
-      "/usr/bin/c++",
-      "-Wall",
-      "-Wextra",
-      "-Werror",
-      "-std=c++98",
-      "-I",
-      "include",
-      "-c",
-      "-o",
-      "obj/bsp.o",
-      "src/bsp.cpp"
-    ],
-    "directory": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03",
-    "file": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/src/bsp.cpp",
-    "output": "/Users/sebasnadu/code/SebasNadu/42_cpp_module02/ex03/obj/bsp.o"
   }
 ]

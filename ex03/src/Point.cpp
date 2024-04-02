@@ -7,3 +7,8 @@ Point &Point::operator=(Point const &rightHandSide) {
   }
   return *this;
 }
+
+Point Point::operator-(Point const &rightHandSide) const {
+  return Point(this->_x - rightHandSide.getX(),
+               this->_y - rightHandSide.getY());
+}

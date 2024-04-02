@@ -1,6 +1,5 @@
 #include "Fixed.hpp"
 #include "Point.hpp"
-#include <iostream>
 
 namespace {
 Fixed const areaTriangle(Point const a, Point const b, Point const c) {
