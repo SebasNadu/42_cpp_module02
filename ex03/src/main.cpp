@@ -6,7 +6,7 @@
 /*   By: sebasnadu <johnavar@student.42berlin.de>   +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/18 21:44:57 by sebasnadu         #+#    #+#             */
-/*   Updated: 2024/04/02 22:27:09 by sebasnadu        ###   ########.fr       */
+/*   Updated: 2024/04/04 21:24:06 by sebasnadu        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -125,10 +125,10 @@ bool getInputPoint(Point *point, std::string const &name) {
 }
 
 int main(void) {
-  Point a(10, 0);
-  Point b(0, 30);
-  Point c(20, 30);
-  Point point(0, 0);
+  Point a;
+  Point b;
+  Point c;
+  Point point;
 
   std::cout << BOLD
             << "Plese enter the coordinates of the vertices of the triangle"

@@ -5,9 +5,9 @@
 class Point {
 public:
   Point() : _x(0), _y(0){};
-  Point(float const x, float const y) : _x(x), _y(y){};
-  Point(Fixed const x, Fixed const y) : _x(x), _y(y){};
-  Point(Point const &src) : _x(src._x), _y(src._y){};
+  Point(float const x, float const y);
+  Point(Fixed const x, Fixed const y);
+  Point(Point const &src);
   ~Point(){};
 
   Point &operator=(Point const &rightHandSide);
